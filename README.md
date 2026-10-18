@@ -32,7 +32,7 @@ The `student-mat.csv` dataset contains information about student demographics, f
 ## 4. Setup Instructions
 
 1. Download or clone this repository to your computer.
-2. Open the `student_performance_eda.ipynb` notebook in Google Colab.
+2. Open the `EDA.ipynb` notebook in Google Colab.
 3. Download the student performance dataset (`student-mat.csv`).
 4. Upload `student-mat.csv` when prompted by the notebook.
 5. Run all the code cells in order.

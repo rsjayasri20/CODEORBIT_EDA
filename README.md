@@ -8,9 +8,9 @@ This project focuses on analyzing student performance data using Python and Pand
 
 ## 2. Dataset Description
 
-The `studentsmat.csv` dataset contains information about student demographics, family backgrounds, study habits, and academic performance.
+The `student-mat.csv` dataset contains information about student demographics, family backgrounds, study habits, and academic performance.
 
-* **Dataset Name:** `studentsmat.csv`
+* **Dataset Name:** `student-mat.csv`
 * **Total Records:** 395 students
 * **Total Columns:** 33
 * **Demographic Information:** School, gender, age, and address.
@@ -33,8 +33,8 @@ The `studentsmat.csv` dataset contains information about student demographics, f
 
 1. Download or clone this repository to your computer.
 2. Open the `student_performance_eda.ipynb` notebook in Google Colab.
-3. Download the student performance dataset (`studentsmat.csv`).
-4. Upload `studentsmat.csv` when prompted by the notebook.
+3. Download the student performance dataset (`student-mat.csv`).
+4. Upload `student-mat.csv` when prompted by the notebook.
 5. Run all the code cells in order.
 6. Review the statistical summaries, visualizations, and EDA results.
 7. Analyze the patterns, trends, and potential outliers identified in the dataset.

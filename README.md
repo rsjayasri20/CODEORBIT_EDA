@@ -20,6 +20,9 @@ The `student-mat.csv` dataset contains information about student demographics, f
 * **Academic Performance:** First-period grade (`G1`), second-period grade (`G2`), and final grade (`G3`).
 * **Additional Factors:** School support, family support, extracurricular activities, and internet access.
 
+**Dataset Source:** UCI Machine Learning Repository — Student Performance
+https://archive.ics.uci.edu/dataset/320/student+performance
+
 ## 3. Technologies Used
 
 * Python
